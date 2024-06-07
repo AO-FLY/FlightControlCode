@@ -45,7 +45,8 @@ AO-FLY的主控芯片是STM32F407VGT6，使用CubeMX HAL库进行开发，设计
 1. git pull到本地
 2. 修改CMake工具链
 3. 修改CMakeLists.txt文件
-4. 。。。
+4. STM32CubeMX版本6.9.1，注意v6.5版本后，想要使用Clion开发32的话都要选择STM32CubeIDE生成项目
+5. 。。。
 
 ### 参与贡献
 
